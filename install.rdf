@@ -3,7 +3,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>fi-FI@dictionaries.addons.mozilla.org</em:id>
-    <em:version>1.0</em:version>
+    <em:version>1.1</em:version>
     <em:unpack>true</em:unpack>
     <em:type>64</em:type>
     <em:name>Finnish Spellchecker</em:name>
