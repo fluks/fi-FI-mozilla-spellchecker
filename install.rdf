@@ -6,7 +6,6 @@
     <em:version>1.0</em:version>
 	<em:unpack>true</em:unpack>
     <em:type>64</em:type>
-	<em:bootstrap>true</em:bootstrap>
     <em:name>Finnish Spellchecker</em:name>
 	<em:creator>fluks</em:creator>
     <!-- <em:contributor>a b</em:contributor> -->
