@@ -4,13 +4,12 @@
   <Description about="urn:mozilla:install-manifest">
     <em:id>fi-FI@dictionaries.addons.mozilla.org</em:id>
     <em:version>1.0</em:version>
-	<em:unpack>true</em:unpack>
+    <em:unpack>true</em:unpack>
     <em:type>64</em:type>
     <em:name>Finnish Spellchecker</em:name>
-	<em:creator>fluks</em:creator>
-    <!-- <em:contributor>a b</em:contributor> -->
-    <!-- <em:homepageURL>https://addons.mozilla.org/en-US/firefox/addon/3497</em:homepageURL> -->
-	<em:description>Finnish (fi-FI) Spellchecker</em:description>
+    <em:creator>fluks</em:creator>
+    <em:homepageURL>https://github.com/fluks/fi-FI-mozilla-spellchecker</em:homepageURL>
+    <em:description>Finnish (fi-FI) Spellchecker</em:description>
 
     <!-- Firefox -->
     <em:targetApplication>
